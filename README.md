@@ -1,3 +1,6 @@
+![logo](https://github.com/Manshi-Jhingon/Manshi-Jhingon/blob/main/Github%20Banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Manshi Jhingon</h1>
 <h3 align="center">A dedicated and enthusiastic Computer Science Engineer with a passion for leveraging technology to drive innovative solutions. I am open to new challenges and collaborations, as I believe in continuous growth and the power of technology to shape a better future.</h3>
 
