@@ -1,8 +1,8 @@
 ![logo](https://github.com/Manshi-Jhingon/Manshi-Jhingon/blob/main/Github%20Banner.png)
 
 
-<h1 align="center">Hi 👋, I'm Manshi Jhingon</h1>
-<h3 align="center">A dedicated and enthusiastic Computer Science Engineer with a passion for leveraging technology to drive innovative solutions. I am open to new challenges and collaborations, as I believe in continuous growth and the power of technology to shape a better future.</h3>
+<h1 align="center">Hi ✌️, This Side Manshi Jhingon</h1>
+<h3 align="center">I'm a B.Tech 2nd Year Student  with a passion for leveraging technology to drive innovative solutions. </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
